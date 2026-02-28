@@ -1,11 +1,12 @@
 ## Test 1
 1. Clone
-2. Pull
-3. Create txt file with Name & surname
-4. Pull
-5. Push
-6. Pull Request
-7. Merge
+2. Create your own branch
+3. Pull from main
+4. Create txt file with Name & surname
+5. Pull
+6. Push
+7. Pull Request
+8. Merge
 
 ## Test 2
 1. Pull
