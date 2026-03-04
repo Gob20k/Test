@@ -1,0 +1,43 @@
+cd Desktop
+
+git clone <URL>
+
+
+cd FolderName
+
+git brach UsersBranch1
+
+git switch branch UsersBranch1
+
+{For school PC's} : Use --local
+
+ git config --local user.name
+
+ git config --local user.name "The Name of ur choice, preferebly ur Github Name"
+ 
+ git config --local user.email
+ 
+
+ git config --local user.email "The Email of ur choice, preferebly ur Github Email"
+
+
+git add .
+
+git commit -m "Place the message in here but make it meaningfull so u remember it"
+
+git status 
+
+
+git pull origin main
+
+git push origin UsersBranch1
+
+
+
+
+
+THEN MOVE ON TO GITHUB AND GO TO PULL REQUEST AND PULL A REQUEST, MAKE SURE UR IN THE RIGHT BRACH 
+
+
+
+
