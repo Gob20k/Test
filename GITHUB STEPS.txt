@@ -5,6 +5,9 @@ git clone <URL>
 
 cd FolderName
 
+git checkout  -b 
+
+
 git brach UsersBranch1
 
 git switch branch UsersBranch1
